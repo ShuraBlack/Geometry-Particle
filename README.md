@@ -7,7 +7,7 @@ Want a cool animated Screensaver? This might be it. This application draws rando
 
 This code might not be the best based on performance or asthetic ,:D
 
-[![particles.gif](https://i.postimg.cc/CMsBg59P/particles.gif)](https://postimg.cc/xqqTGffM)
+[![particles.gif](https://i.postimg.cc/GpTK7G7S/particles.gif)](https://postimg.cc/t1yF7ZHh)
 
 ## Project information
 
